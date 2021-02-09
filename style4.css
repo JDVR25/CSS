@@ -1,0 +1,17 @@
+form{
+    font-weight: bold;
+}
+[type~="text"] {
+    width: 150px;
+    background-color: greenyellow;
+    margin-bottom: 10px;
+    border-color: white;
+}
+[for~="visitante"]{
+    font-size: large;
+    font-weight: bolder;
+    color: orangered;
+}
+[type~="button"]{
+    border-color: white;
+}
